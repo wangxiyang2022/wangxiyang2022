@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @wangxiyang.
-- 🔭 I’m currently studying on ChongQing University.
+- 🔭 I’m currently studying in ChongQing University.
 - 👀 I’m interested in Multi-Object Traking, Computer Vision and Deep Learning.
