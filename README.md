@@ -4,4 +4,4 @@
 
 ![Wangxiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxiyang2022&show_icons=true&theme=tokyonight)
 
-!My [Visitor Count](https://profile-counter.glitch.me/wangxiyang2022/count.svg) visitors~
+My ![Visitor Count](https://profile-counter.glitch.me/wangxiyang2022/count.svg) visitors~
